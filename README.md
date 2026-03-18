@@ -171,7 +171,7 @@ Before submitting, confirm your project includes all of the following:
 > 📅 **Submission Deadline: June 26, 2026**
 > Projects are reviewed on a rolling basis — early submissions are strongly encouraged!
 
-**[→ Submit Your Project Here](#)** *(replace with your actual form link)*
+**[→ Submit Your Project Here](#)** *([replace with your actual form link](https://breakthroughtech.tfaforms.net/f/AIStudioChallengeProjectFall2026))*
 
 Questions? Reach out to the Break Through Tech AI Studio team.
 
