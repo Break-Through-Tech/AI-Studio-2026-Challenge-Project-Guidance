@@ -6,7 +6,6 @@ Welcome! This page is your central resource for understanding, designing, and su
 
 ## 📋 Table of Contents
 
-- [Welcome to Our AI Studio 2026 Project Hub](#ai-studio-2026-project-hub)
 - [What is an AI Studio Challenge Project?](#what-is-an-ai-studio-challenge-project)
 - [Project Essentials](#project-essentials)
 - [Problem Definition Requirements](#problem-definition-requirements)
@@ -18,18 +17,6 @@ Welcome! This page is your central resource for understanding, designing, and su
 - [Submit Your Project](#submit-your-project)
 
 ---
-## 👋 Welcome
-
-We’re excited to partner with you for AI Studio.
-
-To get oriented, please take a few minutes to watch this short welcome video:
-
-<p align="center">
-  <a href="https://vimeo.com/1174545052/1d068ffc8b">
-    <img src="https://vumbnail.com/1174545052.jpg" width="700">
-  </a>
-</p>
-
 ## What is an AI Studio Challenge Project?
 
 AI Studio Challenge Projects are **real-world machine learning projects** presented by industry partner organizations. They are designed to give student participants ("fellows") an experience comparable to an undergraduate-level technical internship.
