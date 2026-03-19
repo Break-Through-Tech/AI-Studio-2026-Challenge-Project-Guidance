@@ -18,12 +18,17 @@ Welcome! This page is your central resource for understanding, designing, and su
 - [Submit Your Project](#submit-your-project)
 
 ---
-
 ## 👋 Welcome
 
-We’re excited to have you here! To get started, please watch this short welcome video:
+We’re excited to partner with you for AI Studio.
 
-[![Watch the Welcome Video](https://vumbnail.com/1174545052.jpg)](https://vimeo.com/1174545052/1d068ffc8b)
+To get oriented, please take a few minutes to watch this short welcome video:
+
+<p align="center">
+  <a href="https://vimeo.com/1174545052/1d068ffc8b">
+    <img src="https://vumbnail.com/1174545052.jpg" width="700">
+  </a>
+</p>
 
 ## What is an AI Studio Challenge Project?
 
