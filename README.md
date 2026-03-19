@@ -178,7 +178,7 @@ Questions? Reach out to the Break Through Tech AI Studio team.
 <details>
   <summary><strong>When is the project submission deadline, and should I submit early?</strong></summary>
 
-  June 26, 2026 is the final deadline, and late submissions cannot be accommodated.  
+  **June 26, 2026** is the final deadline, and late submissions cannot be accommodated.  
 
   Submitting early is strongly encouraged, as projects are reviewed on a rolling basis and early submissions receive quicker feedback and more time for refinement.
 
