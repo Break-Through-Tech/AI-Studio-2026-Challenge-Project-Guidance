@@ -21,11 +21,9 @@ Welcome! This page is your central resource for understanding, designing, and su
 
 ## 👋 Welcome
 
-We’re excited to partner with you for AI Studio!  
+We’re excited to have you here! To get started, please watch this short welcome video:
 
-To help you get oriented, we’ve put together a short welcome video that walks through the program, expectations, and next steps:
-
-<iframe src="https://player.vimeo.com/video/1174545052?h=1d068ffc8b" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+[![Watch the Welcome Video](https://vumbnail.com/1174545052.jpg)](https://vimeo.com/1174545052/1d068ffc8b)
 
 ## What is an AI Studio Challenge Project?
 
