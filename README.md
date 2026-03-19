@@ -6,6 +6,7 @@ Welcome! This page is your central resource for understanding, designing, and su
 
 ## 📋 Table of Contents
 
+- [Welcome to Our AI Studio 2026 Project Hub](#ai-studio-2026-project-hub)
 - [What is an AI Studio Challenge Project?](#what-is-an-ai-studio-challenge-project)
 - [Project Essentials](#project-essentials)
 - [Problem Definition Requirements](#problem-definition-requirements)
@@ -17,6 +18,14 @@ Welcome! This page is your central resource for understanding, designing, and su
 - [Submit Your Project](#submit-your-project)
 
 ---
+
+## 👋 Welcome
+
+We’re excited to partner with you for AI Studio!  
+
+To help you get oriented, we’ve put together a short welcome video that walks through the program, expectations, and next steps:
+
+<iframe src="https://player.vimeo.com/video/1174545052?h=1d068ffc8b" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## What is an AI Studio Challenge Project?
 
