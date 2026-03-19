@@ -168,15 +168,22 @@ Before submitting, confirm your project includes all of the following:
 
 ## Submit Your Project
 
-> 📅 **Submission Deadline: June 26, 2026**
-> Projects are reviewed on a rolling basis — early submissions are strongly encouraged!
-
 **[→ Submit Your Project Here](https://breakthroughtech.tfaforms.net/f/AIStudioChallengeProjectFall2026)**
 
 Questions? Reach out to the Break Through Tech AI Studio team.
 
 ---
 ## Frequently Asked Questions
+
+<details>
+  <summary><strong>When is the project submission deadline, and should I submit early?</strong></summary>
+
+  June 26, 2026 is the final deadline, and late submissions cannot be accommodated.  
+
+  Submitting early is strongly encouraged, as projects are reviewed on a rolling basis and early submissions receive quicker feedback and more time for refinement.
+
+</details>
+
 <details> 
   <summary><strong>What do Fellows learn in the Machine Learning Summer Course?</strong></summary>
 
@@ -186,5 +193,7 @@ Questions? Reach out to the Break Through Tech AI Studio team.
 
   In addition, Fellows are introduced to generative AI tools, prompt and context engineering, retrieval-augmented generation (RAG) systems, and AI agents. They gain experience with Git-based collaboration, technical documentation, and approaches to identifying and mitigating bias in machine learning models.
 </details>
+
+
 
 *Break Through Tech AI Studio | Cornell Tech | 2026*
