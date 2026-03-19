@@ -176,11 +176,15 @@ Before submitting, confirm your project includes all of the following:
 Questions? Reach out to the Break Through Tech AI Studio team.
 
 ---
-<details>
-<summary> ##FAQ </summary>   
+## Frequently Asked Questions
+<details> 
+  <summary><strong>What do Fellows learn in the Machine Learning Summer Course?</strong></summary>
+
+  Fellows learn the end-to-end machine learning lifecycle, including data analysis, exploratory data analysis, feature engineering, model training and evaluation, and model selection. 
+
+  The course also covers supervised learning, logistic regression, natural language processing (NLP), neural networks, and sentiment analysis. 
+
+  In addition, Fellows are introduced to generative AI tools, prompt and context engineering, retrieval-augmented generation (RAG) systems, and AI agents. They gain experience with Git-based collaboration, technical documentation, and approaches to identifying and mitigating bias in machine learning models.
 </details>
-
-> Q: What do Fellows learn in the Machine Learning Summer Course?
-
 
 *Break Through Tech AI Studio | Cornell Tech | 2026*
