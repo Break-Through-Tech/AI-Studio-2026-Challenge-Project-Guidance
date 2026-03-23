@@ -178,6 +178,17 @@ Before submitting, confirm your project includes all of the following:
 Questions? Reach out to the Break Through Tech AI Studio team.
 
 ---
+## Sign up for Office Hours Session
+
+If you would like additional support while developing your project idea, Dr. Uohna and I will be hosting AI Studio Partner Office Hours starting in April. These sessions are an opportunity to ask questions and get live feedback on your project concept. 
+
+We **strongly encourage attendance** whether you are new to AI Studio or returning and looking to refine your project.
+
+You can sign up using the link below, and feel free to invite colleagues who might be involved in the project:
+
+**[→ Register for Office Hours](https://cornell.zoom.us/meeting/register/7Kd_xeeySbCQoQaJ0_dONQ)**
+
+---
 ## Frequently Asked Questions
 
 <details>
@@ -198,6 +209,7 @@ Questions? Reach out to the Break Through Tech AI Studio team.
 
   In addition, Fellows are introduced to generative AI tools, prompt and context engineering, retrieval-augmented generation (RAG) systems, and AI agents. They gain experience with Git-based collaboration, technical documentation, and approaches to identifying and mitigating bias in machine learning models.
 </details>
+---
 
 
 
