@@ -30,11 +30,17 @@ Once accepted, your project — along with a volunteer **Challenge Advisor** fro
 Your proposed project should:
 
 ✅ Be **technical** in nature and involve **Machine Learning** to address a real business or social challenge
+
 ✅ Ideally produce artifacts your organization can actually use (e.g., an initial ML model for an engineering team)
+
 ✅ Be solvable primarily in **Python** — the one language all fellows share
+
 ✅ Build on the fellows' **ML Foundations** summer coursework while introducing new, feasible challenges
-✅ Cover **multiple stages of the ML lifecycle**: business understanding → data preparation → modeling → evaluation *(deployment not required)*
+
+✅ Cover **multiple stages of the ML lifecycle**: business understanding → data preparation → modeling → evaluation *(deployment not required)
+
 ✅ Be scoped for a part-time, unpaid, extracurricular team (~3 hours/week over ~3 months)
+
 ✅ Be **open source** — suitable for fellows to discuss publicly on GitHub and LinkedIn
 
 ---
