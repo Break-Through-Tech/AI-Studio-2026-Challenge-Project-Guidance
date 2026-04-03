@@ -199,10 +199,8 @@ You can sign up using the link below, and feel free to invite colleagues who mig
   Submitting early is strongly encouraged, as projects are reviewed on a rolling basis and early submissions receive quicker feedback and more time for refinement.
 
 </details>
-
 <a id="ml-foundations"></a>
 <details> 
-<a id="ml-foundations"></a>
   <summary><strong>What do Fellows learn in the Machine Learning Summer Course?</strong></summary>
 
   Fellows learn the end-to-end machine learning lifecycle, including data analysis, exploratory data analysis, feature engineering, model training and evaluation, and model selection. 
