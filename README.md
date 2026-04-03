@@ -35,7 +35,7 @@ Your proposed project should:
 
 ✅ Be solvable primarily in **Python** — the one language all fellows share
 
-✅ Build on the fellows' [ML Foundations summer coursework](#what-do-fellows-learn-in-the-machine-learning-summer-course) while introducing new, feasible challenges
+✅ Build on the fellows'[ML Foundations](#ml-foundations) while introducing new, feasible challenges
 
 ✅ Cover **multiple stages of the ML lifecycle**: business understanding → data preparation → modeling → evaluation *(deployment not required)
 
@@ -200,7 +200,9 @@ You can sign up using the link below, and feel free to invite colleagues who mig
 
 </details>
 
+<a id="ml-foundations"></a>
 <details> 
+<a id="ml-foundations"></a>
   <summary><strong>What do Fellows learn in the Machine Learning Summer Course?</strong></summary>
 
   Fellows learn the end-to-end machine learning lifecycle, including data analysis, exploratory data analysis, feature engineering, model training and evaluation, and model selection. 
