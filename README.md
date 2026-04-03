@@ -35,7 +35,7 @@ Your proposed project should:
 
 ✅ Be solvable primarily in **Python** — the one language all fellows share
 
-✅ Build on the fellows' **ML Foundations** summer coursework while introducing new, feasible challenges
+✅ Build on the fellows' [ML Foundations summer coursework](#what-do-fellows-learn-in-the-machine-learning-summer-course) while introducing new, feasible challenges
 
 ✅ Cover **multiple stages of the ML lifecycle**: business understanding → data preparation → modeling → evaluation *(deployment not required)
 
