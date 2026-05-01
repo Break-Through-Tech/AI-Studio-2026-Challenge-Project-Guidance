@@ -175,6 +175,155 @@ Before submitting, confirm your project includes all of the following:
 
 **[→ Submit Your Project Here](https://breakthroughtech.tfaforms.net/f/AIStudioChallengeProjectFall2026)**
 
+<details>
+  <summary><strong> What is on the submission form? </strong></summary>
+
+# Challenge Project Submission Form
+
+---
+
+## Challenge Project
+
+**1. Project Title**
+
+&nbsp;
+
+**2. Project Summary**
+
+Using the following template, please provide a brief summary of your proposed Challenge Project, including the primary objective and impact:
+
+> *"In this project, you will use ____________ [type of data] and ____________ [ML techniques] to ____________ [target or outcome; e.g., build a model to predict something]. This will help our company address ____________ [business problem]."*
+
+Is this project related to real work that your organization is currently engaged in, or might pursue in the future (e.g., an ongoing or potential engineering or data team project)?
+
+- [ ] Yes
+- [ ] No
+- [ ] I'm not sure
+
+**3. Project Milestones**
+
+Please specify your suggested project milestone(s) for each month of AI Studio (i.e., what the team should aim to complete, at a high level). Include milestones for September, October, and November:
+
+| Month | Milestone |
+|-------|-----------|
+| September | |
+| October | |
+| November | |
+
+**4. Success Metrics**
+
+How will success be measured for this project? Please describe the evaluation metric(s) and/or what a successful outcome would look like come December:
+
+&nbsp;
+
+**5. Stretch Goals**
+
+Does this project have natural extension points or "stretch goals" for a student team that progresses quickly? If so, please briefly describe:
+
+&nbsp;
+
+**6. ML Problem Type(s)** *(Select all that apply)*
+
+- [ ] Classification
+- [ ] Regression
+- [ ] Clustering
+- [ ] Recommendation Systems
+- [ ] Natural Language Processing (NLP)
+- [ ] Computer Vision
+- [ ] Time Series Analysis
+- [ ] Deep Learning / Neural Networks
+- [ ] Large Language Models (LLMs) / Generative AI
+- [ ] Transfer Learning / Pre-trained Models
+- [ ] Reinforcement Learning
+- [ ] Other
+
+**7. Resource Requirements** *(Select all that apply)*
+
+AI Studio Challenge Projects should be feasible using the free tier of Google Colab or similar. If your project requires additional resources, your organization must provide them at no cost to the student team.
+
+- [ ] It can be completed using free-tier tools (e.g., Google Colab free tier)
+- [ ] It requires additional compute resources (e.g., GPU/TPU credits, cloud storage), which my organization will provide.
+- [ ] It requires API keys (e.g., for LLMs or third-party services), which my organization will provide.
+- [ ] It includes a deployment component, and my organization will provide the necessary hosting/infrastructure.
+
+**Project Requirements Confirmation**
+
+Please confirm the following, which are requirements for all AI Studio Challenge Projects, as noted in our project guidance:
+
+- The project can be completed using Python, without requiring significant knowledge of other programming languages.
+- The project is Open Source in nature (e.g., not confidential for your organization; suitable for fellows to discuss publicly on GitHub and LinkedIn).
+- The project will not require the students to sign an NDA or other paperwork.
+- The project will not require the team to "scrape" data from the web.
+
+- [ ] I confirm that all of the following requirements are true.
+- [ ] I cannot confirm that all of the following requirements are true.
+
+---
+
+## Dataset
+
+**1. Data Source**
+
+What is the source of the data that the student team will use to complete their Challenge Project?
+
+- [ ] **Publicly available** (i.e., can be downloaded from a public website)
+  - Please provide a link to the public data that the student team will be able to download and use:
+- [ ] **Provided by my organization**
+  - Please provide a short description of the dataset, and how it will be shared with the student team:
+- [ ] **Other**
+  - Please specify:
+
+**2. Data Type(s)** *(Select all that apply)*
+
+- [ ] Numerical / Quantitative
+- [ ] Categorical
+- [ ] Text
+- [ ] Time Series
+- [ ] Images
+- [ ] Audio
+- [ ] Video
+- [ ] Other — Please specify:
+
+> **Note:** The dataset(s) must not include any confidential, proprietary, or sensitive information. All Personal Identifiable Information (PII) must be removed, anonymized, or redacted prior to sharing. Any other information not suitable for student team or public visibility must be removed or appropriately redacted or anonymized. The dataset(s) must have a sufficient sample size, reasonable representation across categories or groups, and enough structure and complexity to support meaningful analysis.
+
+**3. File Format(s)** *(Select all that apply)*
+
+- [ ] CSV / TSV
+- [ ] JSON
+- [ ] Parquet
+- [ ] Excel (.xlsx)
+- [ ] Image files (e.g., .png, .jpg)
+- [ ] Audio files (e.g., .mp3, .wav)
+- [ ] Database export (e.g., SQL dump)
+- [ ] Other — Please specify:
+
+**4. Dataset Size**
+
+- [ ] Less than or equal to 1 GB
+- [ ] Greater than 1 GB and less than 5 GB
+- [ ] Greater than or equal to 5 GB and less than 10 GB
+- [ ] Greater than or equal to 10 GB
+
+**5. Dataset Documentation**
+
+Does the dataset include documentation (e.g., a data dictionary with feature definitions, data types, and known limitations)?
+
+- [ ] Yes, documentation is available
+- [ ] Partial documentation exists
+- [ ] No, but I can create it before the program begins
+- [ ] No
+
+**6. Data Readiness**
+
+Is the dataset currently cleaned and ready for model training?
+
+- [ ] Yes, it is cleaned and ready for training
+- [ ] It will require some cleaning / preprocessing
+- [ ] It will require significant cleaning / preprocessing
+
+
+</details>
+
 Questions? Reach out to the Break Through Tech AI Studio team.
 
 ---
